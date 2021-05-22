@@ -1,0 +1,39 @@
+{
+   "GalleryBlogs":[
+      {
+         "id":1,
+         "title": "Kerala Blog1",
+         "img": "images/ec.png",
+         "disc":
+           "Lorem ipsum dolor sit amet, illum ius ex, eu eos dolorum meliore inimicus, his ei veniam audiam..",
+         "url": "#"
+       },
+       {
+          "id":2,
+         "title": "Kerala Blog2",
+         "img": "images/ec.png",
+         "disc":
+           "Lorem ipsum dolor sit amet, illum ius ex, eu eos dolorum meliore inimicus, his ei veniam audiam..",
+         "url": "#"
+       },
+       {
+          "id":3,
+         "title": "Kerala Blog3",
+         "img": "images/ec.png",
+         "disc":
+           "Lorem ipsum dolor sit amet, illum ius ex, eu eos dolorum meliore inimicus, his ei veniam audiam..",
+         "url": "#"
+       },
+       {
+          "id":4,
+         "title": "Kerala Blog4",
+         "img": "images/ec.png",
+         "disc":
+           "Lorem ipsum dolor sit amet, illum ius ex, eu eos dolorum meliore inimicus, his ei veniam audiam..",
+         "url": "#"
+       }
+   ]
+}
+
+
+

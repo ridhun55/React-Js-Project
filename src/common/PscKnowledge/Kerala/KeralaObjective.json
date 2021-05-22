@@ -1,0 +1,38 @@
+{
+   "Page1":[
+      {
+         "id":1,
+         "roll":1,
+         "Q_Malayalam":"കേരളത്തിലെ ആദ്യ തദ്ദേശസ്വയംഭരണ വകുപ്പ് മന്ത്രി?",
+         "A_Malayalam":"പി. കെ. ചാത്തൻ",
+         "Q_English":"Who was the first Minister of Local Self Government in Kerala?",
+         "A_English":"P. K. The devil"
+      },
+      {
+         "id":2,
+         "roll":2,
+         "Q_Malayalam":"കേരളത്തിലെ ആദ്യ തദ്ദേശസ്വയംഭരണ വകുപ്പ് മന്ത്രി?",
+         "A_Malayalam":"പി. കെ. ചാത്തൻ",
+         "Q_English":"Who was the first Minister of Local Self Government in Kerala?",
+         "A_English":"P. K. The devil"
+      }
+   ],
+   "Page2":[
+      {
+         "id":1,
+         "roll":6,
+         "Q_Malayalam":"കേരളത്തിലെ ആദ്യ തദ്ദേശസ്വയംഭരണ വകുപ്പ് മന്ത്രി?",
+         "A_Malayalam":"പി. കെ. ചാത്തൻ",
+         "Q_English":"Who was the first Minister of Local Self Government in Kerala?",
+         "A_English":"P. K. The devil"
+      },
+      {
+         "id":2,
+         "roll":7,
+         "Q_Malayalam":"കേരളത്തിലെ ആദ്യ തദ്ദേശസ്വയംഭരണ വകുപ്പ് മന്ത്രി?",
+         "A_Malayalam":"പി. കെ. ചാത്തൻ",
+         "Q_English":"Who was the first Minister of Local Self Government in Kerala?",
+         "A_English":"P. K. The devil"
+      }
+   ]
+}

@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAEA,AAAA,YAAY,AAAA,MAAM,CAAA;EACf,gBAAgB,ECOV,OAAO;CDNf",
+    "sources": [
+        "TextHover.scss",
+        "Colours.scss"
+    ],
+    "names": [],
+    "file": "TextHover.css"
+}

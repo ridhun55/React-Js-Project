@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAGA,AAAA,aAAa,CAAA;EACZ,gBAAgB,EAAE,OAAO;EACzB,KAAK,EAAE,WAAW;EAClB,WAAW,EAAE,GAAG,CAAC,GAAG,CAAC,GAAG,CAAC,wBAAqB;EAC9C,uBAAuB,EAAE,IAAI;EAC5B,oBAAoB,EAAE,IAAI;EACvB,eAAe,EAAE,IAAI;CACzB",
+    "sources": [
+        "TextShadow.scss",
+        "Colours.scss"
+    ],
+    "names": [],
+    "file": "TextShadow.css"
+}
